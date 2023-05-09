@@ -1,0 +1,6 @@
+[book]
+title = "My Awesome Book"
+authors = ["Your Name"]
+
+[output.html]
+mathjax-support = true
